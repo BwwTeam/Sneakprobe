@@ -1,13 +1,31 @@
-Sneakprobe scanner introduction:
-Sneakprobe's Scan official website https://scan.bwwteam.com/#/
+<h1>Sneakprobe scanner introduction</h1>
+<h3>0x01 Sneakprobe scanner URL：</h3>
+<h5>Sneakprobe's Scan official website https://scan.bwwteam.com/#/</h5>
+<h3>0x02 Sneakprobe Scanner Introduction:</h3>
+<h5>Sneakprobe adopts the form of B/C architecture. The client can easily access the scanner through a WEB browser and transmit the data directly to the Web server. In addition, Sneakprobe can also realize cross-platform and cross-device scanning and management, and users can access the scan results through the web anytime and anywhere.
 
-Sneakprobe adopts the form of B/C architecture. The client can easily access the scanner through a WEB browser and transmit the data directly to the Web server. In addition, Sneakprobe can also realize cross-platform and cross-device scanning and management, and users can access the scan results through the web anytime and anywhere.
+Sneakprobe uses front-end and back-end technologies for development, and uses redis for data caching to reduce the performance and response speed of the web service system. Front-end and back-end technologies can achieve better user experience and interaction and meet user needs for functions.</h5>
+<h3>0x03 Sneakprobe scanner features:</h3>
+<h5>The entire site adopts dark style and the language is English
 
-Sneakprobe uses front-end and back-end technologies for development, and uses redis for data caching to reduce the performance and response speed of the web service system. Front-end and back-end technologies can achieve better user experience and interaction and meet user needs for functions.
+With memcache, smb, wmi, vnc, telnet, rdp service blasting function
 
-Sneakprobe uses a plug-in to perform vulnerability scanning. Its main functions are:
-Port scanning: Port scanning using TCP, SYN, ICMP, UDP and other protocols
-Subdomain name scanning: Dictionary scanning for status codes
-Directory scanning: Dictionary scanning for status codes
-Weak password blasting: Weak password blasting verification for some commonly used ports
-Plug-in scan: Determine the fingerprint and perform a specified POC scan. When the fingerprint scan cannot be performed, a complete POC scan is performed.
+Database blasting, including MSSQL, ftp, orcale, postgresql
+
+Number of plug-ins, currently there are 5000+ plug-ins
+
+Add scan targets in batches
+
+Custom scan content
+
+Custom scan poc
+
+Intranet scan</h5>
+<h3>0x04 Sneakprobe manual</h3>
+<h5>
+  If you do not have an account, please click " Register " to register as a user. Registration is currently open and there is no invitation code, email or mobile phone verification.
+  <h4>一、Home</h4>
+  <img src=https://github.com/BwwTeam/Sneakprobe/assets/162783305/b1db0b0c-357c-47a4-bde5-d6527980f399>
+
+</h5>
+
